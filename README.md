@@ -2,6 +2,7 @@
 
 Frequency of languages on my repos:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YaseminGokberk&repo=github-readme-stats)](https://github.com/YaseminGokberk/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaseminGokberk)](https://github.com/YaseminGokberk/github-readme-stats)
 
 Stats of Repos:
